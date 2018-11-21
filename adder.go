@@ -10,6 +10,7 @@ func (a *Adder) Add(l, r int) int {
 	return l + r
 }
 
+/* Just a comment */
 func (a *Adder) AddMulti(n ...int) int {
 	var sum int
 	for _, m := range n {
