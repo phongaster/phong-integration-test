@@ -2,7 +2,7 @@ package basic
 
 import (
 	"testing"
-	"time"
+	// "time"
 )
 
 // テスト用の関数の定義.
