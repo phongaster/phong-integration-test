@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-// テスト用の関数の定義.
+// テスト用の関数の定義.aaa
 // テスト用の関数名は TestXxx という形式で Add 関数のテストなら TestAdd とする.
 func TestAdd(t *testing.T) {
 	var result int
